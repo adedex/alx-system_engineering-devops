@@ -1,1 +1,6 @@
-My first readme
+#!/bin/bash
+
+echo "My first readme"
+
+
+why?
